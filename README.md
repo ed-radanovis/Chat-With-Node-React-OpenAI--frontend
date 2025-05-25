@@ -78,16 +78,16 @@ The project was fully completed and some of the resources used were:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="public/Certificado 35 _  primeiros passos com AWS.png" width="80px;" height="80px;" alt="Logo Code with Sloba"/><br>
+      <img src="public/Certificado 35 _  primeiros passos com AWS.png" width="80px;" height="80px;" alt="Imagem Certificado"/><br>
     </td>
     <td align="center">
-      <img src="public/Certificado 36 _  imersão ao ecossistema Cloud Data AWS.png" width="80px;" height="80px;" alt="Logo Code with Sloba"/><br>
+      <img src="public/Certificado 36 _  imersão ao ecossistema Cloud Data AWS.png" width="80px;" height="80px;" alt="Imagem Certificado"/><br>
     </td>
     <td align="center">
-      <img src="public/Certificado 37 _  desenvolvendo soluções Serveless na AWS.png" width="80px;" height="80px;" alt="Logo Code with Sloba"/><br>
+      <img src="public/Certificado 37 _  desenvolvendo soluções Serveless na AWS.png" width="80px;" height="80px;" alt="Imagem Certificado"/><br>
     </td>
     <td align="center">
-      <img src="public/Certificado 38 _  infraestrutura como código com Serveless com framework na AWS.png" width="80px;" height="80px;" alt="Logo Code with Sloba"/><br>
+      <img src="public/Certificado 38 _  infraestrutura como código com Serveless com framework na AWS.png" width="80px;" height="80px;" alt="Imagem Certificado"/><br>
     </td>
   </tr>
 </table>
